@@ -264,17 +264,9 @@ The system expects these CAN IDs (from DBC files):
 - [ ] Configuration file for customization
 - [ ] Remove exception throws for true embedded compatibility
 
-## License
-
-[Your License Here]
-
-## Contributors
-
-[Your Name/Team]
-
 ## Support
 
-For issues or questions, contact [your contact info]
+For issues or questions, contact [faiyajr@umich.edu]
 
 ---
 
